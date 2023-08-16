@@ -1,2 +1,2 @@
 
-https://hub.docker.com/repository/docker/ampassos/fullcycle
+https://hub.docker.com/r/ampassos/fullcycle
